@@ -8,7 +8,7 @@
 
 ## 🎯 Portada
 
-**Licenciado en Física | Data Scientist | Machine Learning Engineer**
+Licenciado en Física / Physics Degree | Data Scientist | Data Analist 
 
 Especializado en ciencia de datos, machine learning y análisis cuantitativo. Transformo datos complejos en soluciones prácticas e impactantes.
 
@@ -136,7 +136,7 @@ Proyecto académico para practicar clustering con Machine Learning. Implementé 
 | Medio | Información |
 |-------|-------------|
 | **📧 Email** | [angelfelix.fcfm@uas.edu.mx](mailto:angelfelix.fcfm@uas.edu.mx) |
-| **🔗 LinkedIn** | [Angel Felix Velarde](https://www.linkedin.com/in/angel-felixvelarde-250480387/) |
+| **🔗 LinkedIn** | [Angel Felix Velarde](https://www.linkedin.com/in/angel-felix-velarde-250480387/) |
 | **💻 GitHub** | [@AngelFelixV](https://github.com/AngelFelixV) |
 | **📍 Ubicación** | Culiacán, Sinaloa, México |
 
@@ -163,9 +163,6 @@ Proyecto académico para practicar clustering con Machine Learning. Implementé 
 
 - [ ] Análisis exploratorio avanzado (EDA) con visualizaciones interactivas
 - [ ] Modelo de clasificación con múltiples algoritmos
-- [ ] Pipeline de procesamiento de datos automatizado
-- [ ] API REST para predicciones
-- [ ] Dashboard interactivo con análisis en tiempo real
 
 ---
 
@@ -173,7 +170,7 @@ Proyecto académico para practicar clustering con Machine Learning. Implementé 
 
 **Fortalezas Técnicas:**
 ✅ Análisis profundo de datos  
-✅ Diseño de modelos ML escalables  
+✅ Diseño de modelos básicos de ML
 ✅ Código limpio y documentado  
 ✅ Solución de problemas complejos  
 ✅ Comunicación de resultados técnicos  
