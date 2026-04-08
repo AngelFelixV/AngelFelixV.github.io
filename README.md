@@ -8,7 +8,7 @@
 
 ## 🎯 Portada
 
-Licenciado en Física / Physics Degree | Data Scientist | Data Analist 
+##Licenciado en Física / Physics Degree | Data Scientist | Data Analist 
 
 Especializado en ciencia de datos, machine learning y análisis cuantitativo. Transformo datos complejos en soluciones prácticas e impactantes.
 
