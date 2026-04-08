@@ -120,6 +120,8 @@ Proyecto académico para practicar clustering con Machine Learning. Implementé 
 5. Evaluación y comparación
 6. Visualización de resultados
 
+![Código Clustering 2](images/clustering2.png)
+
 **Links:**
 - 💻 [Código en GitHub](https://github.com/AngelFelixV/ClusterAnalysis_Homework)
 
