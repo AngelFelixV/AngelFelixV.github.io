@@ -124,7 +124,13 @@ Proyecto académico para practicar clustering con Machine Learning. Implementé 
 Mapa de clustering mediante Dendrograma
 
 ![Código Dendrograma](images/Dendrograma.png)
-Mapa de clustering mediante Dendrograma
+Dendrograma
+
+![Código Mapa](images/Mapa.png)
+Gráfica de relación entre la métrica de criminalidad y la población urbana
+
+![Código Clustering 2](images/Clustering2.png)
+Mapa generado mediante la utilización de K-Means
 
 **Links:**
 - 💻 [Código en GitHub](https://github.com/AngelFelixV/ClusterAnalysis_Homework)
