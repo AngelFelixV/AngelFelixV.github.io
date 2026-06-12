@@ -32,7 +32,7 @@ Entiendo tanto la teoría matemática profunda como la aplicación práctica en 
 **Lenguajes:**
 - Python (avanzado)
 - SQL
-- Inglés (Professional Working)
+- Inglés (B2)
 
 **Machine Learning & Data Science:**
 - Linear/Logistic Regression
@@ -40,6 +40,13 @@ Entiendo tanto la teoría matemática profunda como la aplicación práctica en 
 - Feature Engineering
 - Normalización & Scaling
 - One-Hot Encoding
+
+**Data Analysis:**
+- Detección y tratamiento de outliers (Método IQR)
+- Limpieza de valores nulos, sentinels y fechas inválidas
+- Análisis de valores MAR (Missing At Random)
+- Segmentación de clientes (Rule-based & demográfica)
+- EDA (Exploratory Data Analysis)
 
 **Herramientas & Librerías:**
 - scikit-learn
@@ -143,6 +150,53 @@ Mapa generado mediante la utilización de K-Means
 
 ---
 
+### 3️⃣ Análisis de Clientes - ConnectaTel (Telecomunicaciones LATAM)
+**Descripción:**
+Proyecto de análisis de datos para una empresa de telecomunicaciones latinoamericana. Evalué el comportamiento de clientes mediante limpieza avanzada de datos, detección de outliers, segmentación por uso y edad, y síntesis de hallazgos para stakeholders. Proyecto del curso de 
+
+**Logros Principales:**
+- Detecté y corregí valores sentinela, nulos estructurales y fechas inválidas en 3 datasets
+- Clasifiqué valores nulos como MAR (Missing At Random) evitando imputaciones erróneas
+- Segmenté clientes por nivel de uso (Bajo / Medio / Alto) y grupo etario (Joven / Adulto / Adulto Mayor)
+- Eliminé outliers con el método IQR y validé el impacto en las distribuciones
+- Redacté un análisis ejecutivo con recomendaciones accionables para el negocio
+
+**Stack Tecnológico:**
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn (visualización)
+- Jupyter Notebook
+
+**Procesos Clave:**
+1. Carga y exploración de 3 datasets (`plans`, `users`, `usage`)
+2. Detección de nulos, sentinelas y fechas fuera de rango
+3. Limpieza y estandarización de datos
+4. Aggregation por usuario (mensajes, llamadas, minutos)
+5. Detección y eliminación de outliers (método IQR)
+6. Segmentación rule-based por uso y edad
+7. Visualización de distribuciones y segmentos
+8. Síntesis ejecutiva para stakeholders
+
+![Distribución de edades por plan](images/proyecto7_telecom_1.png)
+Distribución de edades por plan — sin sesgo marcado; el plan Básico predomina en todos los rangos etarios.
+
+![Distribución de mensajes por plan](images/proyecto7_telecom_2.png)
+Distribución de mensajes por plan — sesgo a la derecha; mayoría de usuarios envía entre 3 y 7 mensajes.
+
+![Distribución de llamadas por plan](images/proyecto7_telecom_3.png)
+Distribución de llamadas por plan — sesgo a la derecha; mayoría realiza entre 3 y 6 llamadas.
+
+![Distribución de minutos de llamada por plan](images/proyecto7_telecom_4.png)
+Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayoría consume menos de 40 minutos.
+
+**Links:**
+- 💻 [Código en GitHub]([https://github.com/AngelFelixV/ConnectaTel_Analysis](https://github.com/AngelFelixV/telecom-analysis-tripleten))
+
+**Aprendizajes:**
+- Tratamiento de nulos MAR vs. errores reales de captura
+- Importancia de validar fechas y detectar sentinelas antes del análisis
+- Segmentación rule-based como alternativa interpretable al clustering
+- Comunicación de hallazgos técnicos en lenguaje de negocio
+
 ## 📞 Datos de Contacto
 
 | Medio | Información |
@@ -222,7 +276,7 @@ Busco oportunidades donde pueda aplicar mi combinación única de conocimiento c
 
 ## 📄 Última Actualización
 
-**Junio 2026** | Portafolio versión 1.5
+**Junio 2026** | Portafolio versión 2.0
 
 ---
 
