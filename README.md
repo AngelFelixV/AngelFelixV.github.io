@@ -147,7 +147,7 @@ Mapa generado mediante la utilización de K-Means
 
 | Medio | Información |
 |-------|-------------|
-| **📧 Email** | [angelfelix.fcfm@uas.edu.mx](mailto:angelfelix.fcfm@uas.edu.mx) |
+| **📧 Email** | [angelfelixvelarde@gmail](mailto:angelfelixvelarde@gmail.com) |
 | **🔗 LinkedIn** | [Angel Felix Velarde](https://www.linkedin.com/in/angel-felix-velarde-250480387/) |
 | **💻 GitHub** | [@AngelFelixV](https://github.com/AngelFelixV) |
 | **📍 Ubicación** | Culiacán, Sinaloa, México |
@@ -222,7 +222,7 @@ Busco oportunidades donde pueda aplicar mi combinación única de conocimiento c
 
 ## 📄 Última Actualización
 
-**Abril 2026** | Portafolio versión 1.0
+**Junio 2026** | Portafolio versión 1.5
 
 ---
 
