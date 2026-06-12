@@ -284,5 +284,9 @@ Busco oportunidades donde pueda aplicar mi combinación única de conocimiento c
 
 Si tienes preguntas, propuestas de proyectos o simplemente quieres conectar, ¡no dudes en contactarme!
 
-**email:** [angelfelix.fcfm@uas.edu.mx](mailto:angelfelix.fcfm@uas.edu.mx)  
+**email:** [angelfelixvelarde@gmail.com](mailto:angelfelixvelarde@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/angel-felixvelarde-250480387/](https://www.linkedin.com/in/angel-felixvelarde-250480387/)
+
+
+
+
