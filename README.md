@@ -283,6 +283,12 @@ Proyecto final del programa de Data Analyst en TripleTen. Análisis integral de 
 <li>La validez estadística de un experimento importa tanto como su resultado</li>
 </ul>
 
+<p><img src="images/Overview Ejecutivo.png" alt="Overview_Ejecutivo"><br>
+Informe ejecutivo del proyecto RappiPlus</p>
+
+<p><img src="images/Drill-through.png" alt="Drill-through"><br>
+Análisis de las métricas</p>
+
 <hr>
 
 <h3>2️⃣ Dashboard Comercial Inmobiliario - Grupo Andes</h3>
@@ -324,6 +330,12 @@ Proyecto de reporting en Power BI para TripleTen. Diseñé un modelo de datos en
 <li>Medidas DAX reutilizables con convención de nombres consistente</li>
 <li>Estructurar un reporte multi-página pensado para el usuario final</li>
 </ul>
+
+<p><img src="images/Ejecutivo.png" alt="Ejecutivo"><br>
+Informe ejecuto del proyecto Grupo Andes</p>
+
+<p><img src="images/Analisis_Detallado.png" alt="Analisis detallado"><br>
+Análisis de las métricas de Grupo Andes</p>
 
 <hr>
 
