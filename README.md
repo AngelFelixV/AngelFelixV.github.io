@@ -71,6 +71,18 @@ Entiendo tanto la teoría matemática profunda como la aplicación práctica en 
 
 ---
 
+## 🎯 Objetivo Profesional
+
+Busco oportunidades donde pueda aplicar mi combinación única de conocimiento científico profundo + experiencia práctica en Data Science y Data Analytics para:
+
+- Crear modelos predictivos impactantes
+- Transformar datos en decisiones empresariales
+- Construir dashboards y reportes que faciliten la toma de decisiones
+- Contribuir a proyectos de investigación aplicada
+- Crecer continuamente en Machine Learning y AI
+
+---
+
 ## 📂 Proyectos
 
 <div>
@@ -403,7 +415,7 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 
 | Medio | Información |
 |-------|-------------|
-| **📧 Email** | [angelfelixvelarde@gmail](mailto:angelfelixvelarde@gmail.com) |
+| **📧 Email** | [angelfelixvelarde@gmail.com](mailto:angelfelixvelarde@gmail.com) |
 | **🔗 LinkedIn** | [Angel Felix Velarde](https://www.linkedin.com/in/angel-felix-velarde-250480387/) |
 | **💻 GitHub** | [@AngelFelixV](https://github.com/AngelFelixV) |
 | **📍 Ubicación** | Culiacán, Sinaloa, México |
@@ -417,20 +429,10 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 | **Diplomado en Estadística para Ciencia de Datos** | Universidad Autónoma de Sinaloa | Sep 2025 - Feb 2026 |
 | **Licenciatura en Física** | Universidad Autónoma de Sinaloa | Ago 2018 - Ene 2025 |
 
----
-
-## 🌐 Presencia en Línea
-
-- **GitHub:** [github.com/AngelFelixV](https://github.com/AngelFelixV) - Todos mis proyectos públicos
-- **LinkedIn:** [angel-felixvelarde-250480387](https://www.linkedin.com/in/angel-felixvelarde-250480387/) - Conexiones profesionales
-- **Streamlit Cloud:** [Car Price Predictor App](https://regresioncarrosangel-dwdr7sjni26n6rnf332k5v.streamlit.app/) - App en producción
-
----
-
 ## 🚀 Próximos Proyectos
 
-- [ ] Análisis exploratorio avanzado (EDA) con visualizaciones interactivas
-- [ ] Modelo de clasificación con múltiples algoritmos
+- [ ] Análisis exploratorio de datos sobre exoplanetas.
+- [ ] Modelo de clasificación.
 
 ---
 
@@ -445,6 +447,7 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 ✅ Comunicación de resultados técnicos  
 
 **Soft Skills:**
+✅ Inglés B2
 ✅ Pensamiento analítico  
 ✅ Aprendizaje autónomo  
 ✅ Atención al detalle  
@@ -457,25 +460,12 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 
 ```
 Proyectos Completados:     5+
-Líneas de Código (Python): 5,000+
 Modelos Entrenados:        10+
 Dashboards en Power BI:    2
 Apps en Producción:        1 (Streamlit)
-Lenguajes:                 Python, SQL
+Lenguajes:                 Python, SQL, RStudio
 Años de Experiencia:       1+ (en crecimiento)
 ```
-
----
-
-## 🎯 Objetivo Profesional
-
-Busco oportunidades donde pueda aplicar mi combinación única de conocimiento científico profundo + experiencia práctica en Data Science y Data Analytics para:
-
-- Crear modelos predictivos impactantes
-- Transformar datos en decisiones empresariales
-- Construir dashboards y reportes que faciliten la toma de decisiones
-- Contribuir a proyectos de investigación aplicada
-- Crecer continuamente en Machine Learning y AI
 
 ---
 
@@ -487,7 +477,4 @@ Busco oportunidades donde pueda aplicar mi combinación única de conocimiento c
 
 ### 🙏 Gracias por visitar mi portafolio
 
-Si tienes preguntas, propuestas de proyectos o simplemente quieres conectar, ¡no dudes en contactarme!
-
-**email:** [angelfelixvelarde@gmail.com](mailto:angelfelixvelarde@gmail.com)  
-**LinkedIn:** [https://www.linkedin.com/in/angel-felixvelarde-250480387/](https://www.linkedin.com/in/angel-felixvelarde-250480387/)
+Si tienes preguntas, propuestas de proyectos o simplemente quieres conectar, ¡no dudes en contactarme! (Agregar butón que regreso a la sección de Datos de contacto)
