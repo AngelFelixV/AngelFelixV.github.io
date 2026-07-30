@@ -1,3 +1,27 @@
+<div class="sidebar">
+
+# Índice
+
+- [Sobre mí](#sobre-mi)
+
+- [Objetivo](#objetivo)
+
+- [Data Science](#data-science)
+
+- [Data Analysis](#data-analysis)
+
+- [Educación](#educacion)
+
+- [Contacto](#contacto)
+
+</div>
+
+<div class="main">
+
+</div>
+
+<div id="top"></div>
+
 # 👨‍💻 Angel Felix Velarde | Portfolio
 
 ![Portada](https://img.shields.io/badge/Data%20Science-Portfolio-667eea?style=for-the-badge)
@@ -478,3 +502,25 @@ Años de Experiencia:       1+ (en crecimiento)
 ### 🙏 Gracias por visitar mi portafolio
 
 Si tienes preguntas, propuestas de proyectos o simplemente quieres conectar, ¡no dudes en checar mis datos de contacto!
+
+<p align="center">
+
+<a href="#contacto">
+
+<button>
+
+📞 Contactar
+
+</button>
+
+</a>
+
+</p>
+
+## 📞 Datos de Contacto {#contacto}
+
+<a href="#top" class="topButton">
+
+⬆
+
+</a>
