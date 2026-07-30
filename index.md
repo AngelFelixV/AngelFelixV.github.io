@@ -10,22 +10,9 @@ title: Angel Felix Portfolio
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-sklearn-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge)
 
-## 📑 Índice
-
-- [🎯 Portada](#-portada)
-- [📝 Sobre Mí](#-sobre-mí)
-- [🎯 Objetivo Profesional](#-objetivo-profesional)
-- [📂 Proyectos](#-proyectos)
-  - [🔬 Data Science](#-data-science)
-  - [📊 Data Analysis / BI](#-data-analysis--bi)
-- [📞 Datos de Contacto](#-datos-de-contacto)
-- [🎓 Educación](#-educación)
-- [🚀 Próximos Proyectos](#-próximos-proyectos)
-- [💼 Experiencia & Fortalezas](#-experiencia--fortalezas)
-- [📊 Estadísticas](#-estadísticas)
 ---
 
-## 🎯 Portada
+## 🎯 Portada {#portada}
 
 Licenciado en Física / Physics Degree | Data Scientist | Data Analyst
 
@@ -35,7 +22,7 @@ Diplomado en Estadística para Ciencia de datos.
 
 ---
 
-## 📝 Sobre Mí
+## 📝 Sobre Mí {#sobre-mi}
 
 Soy licenciado en Física con un Diplomado en **Ciencia de Datos** y **Machine Learning**. Mi formación única combina:
 
@@ -89,7 +76,7 @@ Entiendo tanto la teoría matemática profunda como la aplicación práctica en 
 
 ---
 
-## 🎯 Objetivo Profesional
+## 🎯 Objetivo Profesional {#objetivo-profesional}
 
 Busco oportunidades donde pueda aplicar mi combinación única de conocimiento científico profundo + experiencia práctica en Data Science y Data Analytics para:
 
@@ -101,7 +88,7 @@ Busco oportunidades donde pueda aplicar mi combinación única de conocimiento c
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos {#proyectos}
 
 <div>
   <button class="tab-btn active" onclick="showTab('ds')" id="btn-ds">🔬 Data Science</button>
@@ -429,7 +416,7 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 
 </div>
 
-## 📞 Datos de Contacto
+## 📞 Datos de Contacto {#datos-de-contacto}
 
 | Medio | Información |
 |-------|-------------|
@@ -440,21 +427,21 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 
 ---
 
-## 🎓 Educación
+## 🎓 Educación {#educacion}
 
 | Programa | Institución | Período |
 |----------|-------------|---------|
 | **Diplomado en Estadística para Ciencia de Datos** | Universidad Autónoma de Sinaloa | Sep 2025 - Feb 2026 |
 | **Licenciatura en Física** | Universidad Autónoma de Sinaloa | Ago 2018 - Ene 2025 |
 
-## 🚀 Próximos Proyectos
+## 🚀 Próximos Proyectos {#proximos-proyectos}
 
 - [ ] Análisis exploratorio de datos sobre exoplanetas.
 - [ ] Modelo de clasificación.
 
 ---
 
-## 💼 Experiencia & Fortalezas
+## 💼 Experiencia & Fortalezas {#experiencia-fortalezas}
 
 **Fortalezas Técnicas:**
 ✅ Análisis profundo de datos  
@@ -474,7 +461,7 @@ Distribución de minutos de llamada por plan — fuerte sesgo a la derecha; mayo
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas {#estadisticas}
 
 ```
 Proyectos Completados:     5+
