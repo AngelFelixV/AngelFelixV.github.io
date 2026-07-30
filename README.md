@@ -7,6 +7,19 @@
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-sklearn-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge)
 
+## 📑 Índice
+
+- [🎯 Portada](#-portada)
+- [📝 Sobre Mí](#-sobre-mí)
+- [🎯 Objetivo Profesional](#-objetivo-profesional)
+- [📂 Proyectos](#-proyectos)
+  - [🔬 Data Science](#-data-science)
+  - [📊 Data Analysis / BI](#-data-analysis--bi)
+- [📞 Datos de Contacto](#-datos-de-contacto)
+- [🎓 Educación](#-educación)
+- [🚀 Próximos Proyectos](#-próximos-proyectos)
+- [💼 Experiencia & Fortalezas](#-experiencia--fortalezas)
+- [📊 Estadísticas](#-estadísticas)
 ---
 
 ## 🎯 Portada
