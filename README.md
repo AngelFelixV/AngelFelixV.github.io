@@ -9,7 +9,7 @@
 
 ## 🎯 Portada
 
-##Licenciado en Física / Physics Degree | Data Scientist | Data Analyst
+Licenciado en Física / Physics Degree | Data Scientist | Data Analyst
 
 Especializado en ciencia de datos, machine learning, análisis cuantitativo y business intelligence. Transformo datos complejos en soluciones prácticas e impactantes.
 
@@ -25,7 +25,7 @@ Soy licenciado en Física con un Diplomado en **Ciencia de Datos** y **Machine L
 - **Análisis de Datos**: Python, SQL, Machine Learning, estadística avanzada, Power BI
 - **Pensamiento Estratégico**: Resolución de problemas complejos con datos
 
-### Mi Valor Único
+### Mi Valor
 
 Entiendo tanto la teoría matemática profunda como la aplicación práctica en industria. Puedo traducir problemas empresariales en modelos cuantitativos y soluciones de datos, ya sea construyendo un modelo predictivo o un dashboard ejecutivo.
 
@@ -33,25 +33,25 @@ Entiendo tanto la teoría matemática profunda como la aplicación práctica en 
 
 **Lenguajes:**
 - Python (avanzado)
-- SQL
-- Inglés (B2)
+- MySQL
+- RStudio
 
-**Machine Learning & Data Science:**
+**Data Science & Machine Learning:**
 - Linear/Logistic Regression
+  - Normalización & Scaling
+  - One-Hot Encoding
+  - Feature Engineering
 - Clustering (K-means, Hierarchical)
-- Feature Engineering
-- Normalización & Scaling
-- One-Hot Encoding
+
 
 **Data Analysis & BI:**
+- EDA (Exploratory Data Analysis)
 - Detección y tratamiento de outliers (Método IQR)
-- Limpieza de valores nulos, sentinels y fechas inválidas
-- Análisis de valores MAR (Missing At Random)
 - Segmentación de clientes (Rule-based & demográfica)
 - Funnel de conversión y retención por cohortes (SQL)
 - A/B Testing (pruebas de hipótesis)
 - Modelado de datos y DAX (Power BI)
-- EDA (Exploratory Data Analysis)
+
 
 **Herramientas & Librerías:**
 - scikit-learn
