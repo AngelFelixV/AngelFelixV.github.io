@@ -1,4 +1,9 @@
-# 👨‍💻 Angel Felix Velarde | Portfolio
+---
+layout: default
+title: Angel Felix Portfolio
+---
+
+# 👨‍💻 Angel Felix Velarde
 
 ![Portada](https://img.shields.io/badge/Data%20Science-Portfolio-667eea?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge)
