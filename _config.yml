@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal 
+title: Angel Felix Velarde
+description: Physics | Data Science | Data Analysis
+theme: jekyll-theme-minimal
+
+logo: /images/profile.png
+
+show_downloads: false
